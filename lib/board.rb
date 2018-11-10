@@ -1,4 +1,4 @@
 # Define the variable board below.
-var board = []
+var lib/board.rb = board
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
